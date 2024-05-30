@@ -1,0 +1,15 @@
+{
+    "name": "dellpc/fpoly-base-web3014",
+    "autoload": {
+        "psr-4": {
+            "Dellpc\\FpolyBaseWeb3014\\": "src/"
+        }
+    },
+    "require": {
+        "bramus/router": "^1.6",
+        "eftec/bladeone": "^4.13",
+        "doctrine/dbal": "^4.0",
+        "rakit/validation": "^1.4",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
